@@ -4,6 +4,7 @@
 This project dives deep into restaurant datasets to extract meaningful insights that help businesses understand industry trends, customer preferences, and operational strategies. The analysis is broken down into multiple levels:
 
 🔍 Foundational Insights
+
 1.Top Cuisines & City-Based Trends
      Discover the most popular cuisines and analyze how restaurant distribution and ratings vary by city.
      Helps identify local preferences and regional trends.
@@ -18,6 +19,7 @@ This project dives deep into restaurant datasets to extract meaningful insights 
 
 
 📈 Advanced Analysis
+
 4.Restaurant Ratings & Votes
     Study the distribution of ratings and how the number of votes influences customer perception.
     Uncover if the number of reviews impacts a restaurant's rating.
@@ -32,6 +34,7 @@ This project dives deep into restaurant datasets to extract meaningful insights 
 
 
 🔍 In-Depth Exploration
+
 7.Restaurant Chains Performance
      Assess how restaurant chains perform in terms of ratings and customer engagement.
      Analyze trends in customer loyalty and compare chain restaurants with independents.
@@ -45,6 +48,7 @@ This project dives deep into restaurant datasets to extract meaningful insights 
      See if higher-priced restaurants are more likely to offer premium services.
 
 🔧 Conclusion
+
 By using this structured approach, raw restaurant data is transformed into actionable insights that can help businesses optimize their customer satisfaction and market positioning. 🚀
 
 
